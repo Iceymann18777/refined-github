@@ -93,7 +93,7 @@
 		"@types/firefox-webext-browser": "^82.0.1",
 		"@types/jsdom": "^16.2.13",
 		"@types/mini-css-extract-plugin": "^2.0.1",
-		"@types/node": "^16.4.10",
+		"@types/node": "^17.0.10",
 		"@types/react": "^17.0.15",
 		"@types/terser-webpack-plugin": "^5.0.4",
 		"ava": "^3.15.0",

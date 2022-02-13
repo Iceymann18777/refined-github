@@ -104,7 +104,7 @@
 		"esbuild-loader": "^2.13.1",
 		"eslint-config-xo-react": "^0.25.0",
 		"eslint-plugin-react": "^7.24.0",
-		"eslint-plugin-react-hooks": "^4.2.0",
+		"eslint-plugin-react-hooks": "^4.3.0",
 		"jsdom": "^16.7.0",
 		"markdown-wasm": "^1.2.0",
 		"mini-css-extract-plugin": "^2.1.0",
